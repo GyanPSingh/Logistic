@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticSystem", "LogisticSystem\LogisticSystem.csproj", "{192B9539-9133-4EEA-8E93-DC096A4DEB28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "framework", "framework\framework.csproj", "{EB221990-FBC9-451E-870A-B53FA1740DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{AFB0961C-D125-4AE2-8C56-3A8CDD628100}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{192B9539-9133-4EEA-8E93-DC096A4DEB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{192B9539-9133-4EEA-8E93-DC096A4DEB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{192B9539-9133-4EEA-8E93-DC096A4DEB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB221990-FBC9-451E-870A-B53FA1740DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB221990-FBC9-451E-870A-B53FA1740DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB221990-FBC9-451E-870A-B53FA1740DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB221990-FBC9-451E-870A-B53FA1740DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB0961C-D125-4AE2-8C56-3A8CDD628100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB0961C-D125-4AE2-8C56-3A8CDD628100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB0961C-D125-4AE2-8C56-3A8CDD628100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB0961C-D125-4AE2-8C56-3A8CDD628100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
